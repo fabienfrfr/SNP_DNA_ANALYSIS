@@ -1,0 +1,317 @@
+SNP,PubMedID,Condition,Gene,Risk Allele,pValue,OR,95% CI
+rs1000113,[PMID 17554300],Crohn's disease,IRGM,T,3.00E-007,1.54,1.31-1.82
+rs10033464,[PMID 17603472],Atrial fibrillation/atrial flutter,"PITX2,ENPEP",T,7.00E-011,1.39,1.26-1.53
+rs10045431,[PMID 18587394],Crohn's disease,IL12B,C,4.00E-013,1.11,
+rs1004819,[PMID 17804789],Crohn's disease,IL23R,,1.00E-008,1.38,1.23-1.53
+rs10078095,[PMID 18193045],Height,HOMER1,C,3.00E-006,0.9,NR) cm talle
+rs1012053,[PMID 17486107],Bipolar disorder,DGKH,A,2.00E-008,1.59,1.35-1.87
+"rs1015362,rs4911414",[PMID 18488028],Skin sensitivity to sun,ASIP,T,2.00E-024,1.76,1.49-2.08
+rs10260404,[PMID 18057069],Amyotrophic lateral sclerosis,DPP6,,3.00E-006,1.37,1.20-1.56
+rs1038304,[PMID 18445777],Bone mineral density (hip),ESR1,G,5.00E-009,0.08,0.06-0.11) SD decreas
+rs1042602,[PMID 17999355],Skin pigmentation by reflectance spectroscopy,TYR,C,4.00E-010,4.36,2.64-7.20
+rs1042725,[PMID 17767157],Height,HMGA2,C,6.00E-016,0.4,NR) cm per copy in adult heigh
+rs10488360,[PMID 17903294],Factor VII,Intergenic,,7.00E-006,NA,
+rs10492604,[PMID 17903308],Sleep duration,Intergenic,,4.00E-006,NA,
+rs10493340,[PMID 17903302],Blood pressure,Intergenic,,2.00E-006,NA,
+rs10494366,[PMID 16648850],QT interval prolongation,NOS1AP,,1.00E-010,4.9,7.90 (NR) msec difference between homozygote
+rs10496265,[PMID 17903295],Aging traits,Intergenic,,1.00E-008,NA,
+rs10497721,[PMID 17903298],Incident diabetes,TMEFF2,,7.00E-007,NA,
+rs10498792,[PMID 17903305],Prostate cancer,PKHD1,,3.00E-006,NA,
+rs10499194,[PMID 17982456],Rheumatoid arthritis,"TNFAIP3, OLIG3",C,1.00E-009,1.33,1.15-1.52
+rs10499559,[PMID 17903292],Thyroid stimulating hormone,RAPGEF5,,8.00E-006,NA,
+rs10503887,[PMID 17903296],Hip geometry,NRG1,,2.00E-007,NA,
+rs10505477,[PMID 17618283],Colorectal cancer,ORF DQ515897,A,3.00E-011,1.17,1.12-1.23
+rs10510634,[PMID 17903298],Fasting plasma glucose,Intergenic,,5.00E-006,NA,
+rs10514345,[PMID 17903296],Hip geometry,GPR98,,2.00E-007,NA,
+rs10516487,[PMID 18204447],Systemic lupus erythematosus,BANK1,G,4.00E-010,1.38,1.25-1.53
+rs10516541,[PMID 17903307],Mean forced vital capacity from 2 exams,Intergenic,,4.00E-006,NA,
+rs1051730,[PMID 18385739],Nicotine dependence,"CHRNA3,CHRNA5,CHRNB4",T,6.00E-020,0.1,0.08-0.12) increase in cigarettes per da
+rs10757278,[PMID 17478679],Myocardial infarction,"CDKN2A,CDKN2B",G,1.00E-020,1.28,1.22-1.35
+rs10778213,[PMID 18439548],C-reactive protein,Unknown,G,1.00E-010,0.12,NR) mg/dl decreas
+rs10789230,[PMID 17804789],Crohn's disease,IL23R,,1.00E-008,1.38,1.23-1.53
+rs10795668,[PMID 18372905],Colorectal cancer,Intergenic,A,3.00E-013,1.12,1.10-1.16
+rs10801047,[PMID 17554261],Crohn's disease,Intergenic,,3.00E-008,1.47,1.22-1.76
+rs10811661,[PMID 17463249],Type 2 diabetes,CDKN2A/B,T,8.00E-015,1.2,1.14-1.25
+rs10883365,[PMID 17554261],Crohn's disease,NKX2-3,,4.00E-010,1.18,1.05-1.32
+rs10889676,[PMID 17804789],Crohn's disease,IL23R,,1.00E-008,1.38,1.23-1.53
+rs10889677,[PMID 17804789],Crohn's disease,IL23R,,1.00E-008,1.38,1.23-1.53
+rs10896449,[PMID 18264096],Prostate cancer (aggressive),Intergenic,G,2.00E-009,1.1,0.98-1.23
+rs10945919,[PMID 18615156],Treatment response to TNF antagonists,QKI,G,3.00E-007,NA,
+rs10946398,[PMID 17463249],Type 2 diabetes,CDKAL1,C,4.00E-011,1.12,1.08-1.16
+rs10946808,[PMID 18391950],Height,HIST1H1D,G,4.00E-017,0.36,0.26-0.46) cm shorte
+rs10984447,[PMID 17660530],Multiple sclerosis,DBC1,A,8.00E-006,1.17,1.09-1.25
+rs10993994,[PMID 18264096],Prostate cancer (aggressive),MSMB,T,7.00E-013,1.16,1.04-1.29
+rs10994336,[PMID 18711365],Bipolar disorder,ANK3,T,9.00E-009,1.45,
+rs11101442,[PMID 18677312],Systemic lupus erythematosus,c10orf64,,3.00E-006,NA,
+rs1111875,[PMID 17293876],Type 2 diabetes,HHEX,G,3.00E-006,1.19,0.82-1.56
+rs11171739,[PMID 17554300],Type 1 diabetes,ERBB3,C,1.00E-011,1.34,1.17-1.54
+rs11200638,[PMID 17053108],Wet age-related macular degeneration,HTRA1,A,8.00E-012,1.6,0.71-3.61
+rs11209002,[PMID 17804789],Crohn's disease,IL23R,,2.00E-007,2.56,1.75-3.70
+rs11209003,[PMID 17804789],Crohn's disease,IL23R,,2.00E-007,2.56,1.75-3.70
+rs11209026,[PMID 17068223],Inflammatory bowel disease,IL23R,A,4.00E-011,3.84,2.33-6.66
+rs11465802,[PMID 17804789],Crohn's disease,IL23R,,1.00E-008,1.38,1.23-1.53
+rs11465804,[PMID 17804789],Crohn's disease,IL23R,,1.00E-008,1.38,1.23-1.53
+rs1155865,[PMID 17903297],Cognitive test performance,Intergenic,,2.00E-006,NA,
+rs11574637,[PMID 18204098],Systemic lupus erythematosus,"ITGAM, ITGAX",C,3.00E-011,1.33,1.22-1.46
+rs1158167,[PMID 17903292],Cystatin C,"CST9L, CST9, CST3",,9.00E-009,NA,
+rs1169310,[PMID 18439552],C-reactive protein,HNF1A,A,2.00E-008,0.13,0.08-0.17) mg/l decrease in log(CRP) leve
+rs11761231,[PMID 17554300],Rheumatoid arthritis,Intergenic,C,4.00E-007,1.32,
+rs12130333,[PMID 18193044],Triglycerides,"ANGPTL3, DOCK7, ATG4C",C,2.00E-008,0.11,0.07-0.15) % SD lowe
+rs1219648,[PMID 17529973],Breast cancer,FGFR2,G,1.00E-010,1.2,1.07-1.42
+rs12198986,[PMID 18391951],Height,BMP6,A,2.00E-011,6.8,4.84-8.76) % SD talle
+rs12203592,[PMID 18483556],Black vs. red hair color,IRF4,T,9.00E-028,0.31,0.25-0.36) decrease in hair color scor
+rs12290811,[PMID 18711365],Bipolar disorder,NR,A,4.00E-006,1.2,
+rs12304921,[PMID 17554300],Type 2 diabetes,NR,G,7.00E-006,2.5,1.53-4.09
+rs12567232,[PMID 17804789],Crohn's disease,IL23R,A,1.00E-008,1.38,1.23-1.53
+rs12593813,[PMID 17637780],Restless legs syndrome,"MAP2K5, LBXCOR1",G,1.00E-015,1.5,1.36-1.66
+rs12680546,[PMID 17362836],Amyotrophic lateral sclerosis,Intergenic,,3.00E-006,1.67,1.25-2.00
+rs12708716,[PMID 17554260],Type 1 diabetes,KIAA0350,A,3.00E-018,1.23,1.16-1.30
+rs12722489,[PMID 17660530],Multiple sclerosis,IL2RA,C,3.00E-008,1.25,1.11-1.36
+rs12779790,[PMID 18372903],Type 2 diabetes,"CDC123,CAMK1D",G,1.00E-010,1.11,1.07-1.14
+rs12821256,[PMID 17952075],Blond vs. brown hair,KITLG,C,2.00E-014,2.32,1.86-2.92
+rs12899449,[PMID 18711365],Bipolar disorder,"C15orf53, RASGRP1",,4.00E-007,1.2,
+rs12913832,[PMID 18483556],Black vs. red hair color,HERC2,A,1.00E-077,0.44,0.40-0.48) decrease in hair color scor
+rs12949531,[PMID 18677312],Systemic lupus erythematosus,Intergenic,,8.00E-006,NA,
+rs12970134,[PMID 18454146],Waist circumference and related phenotypes,MC4R,A,2.00E-009,0.88,0.59-1.17) cm increas
+rs13015714,[PMID 18311140],Celiac disease,"IL1RL1,IL18R1,IL18RAP, SLC9A4",C,4.00E-009,1.28,1.18-1.39
+rs13266634,[PMID 17293876],Type 2 diabetes,SLC30A8,C,6.00E-008,1.18,0.69-1.67
+rs13277113,[PMID 18204098],Systemic lupus erythematosus,"C8orf13, BLK",A,1.00E-010,1.39,1.28-1.51
+rs13281615,[PMID 17529967],Breast cancer,Intergenic,T,5.00E-012,1.08,1.05-1.11
+rs1333026,[PMID 17903300],BMI,Intergenic,,8.00E-006,NA,
+rs1333049,[PMID 17554300],Coronary heart disease,"CDKN2A,CDKN2B",C,1.00E-013,1.47,1.27-1.70
+rs13361189,[PMID 17554261],Crohn's disease,IRGM,,2.00E-010,1.38,1.15-1.66
+rs13387042,[PMID 17529974],Breast cancer,Intergenic,A,1.00E-013,1.2,1.14-1.26
+rs13397985,[PMID 18758461],Chronic lymphocytic leukemia,"SP140, SP110",G,6.00E-010,1.41,1.26-1.57
+rs1343151,[PMID 17804789],Crohn's disease,IL23R,,1.00E-008,1.38,1.23-1.53
+rs1344706,[PMID 18677311],Schizophrenia,ZNF804A,T,2.00E-007,1.12,
+rs1373692,[PMID 17447842],Crohn's disease,Intergenic,,2.00E-012,1.46,
+rs1398024,[PMID 18723019],Crohn's disease and Sarcoidosis (combined),C10ORF67,A,4.00E-006,1.23,1.04-1.45
+rs1408799,[PMID 18488028],Blue vs. green eyes,TYRP1,C,6.00E-017,1.4,1.25-1.57
+rs1412337,[PMID 17903295],Morbidity-free survival,DPT,,2.00E-009,NA,
+rs1427407,[PMID 17767159],F-cell distribution,BCL11A,,6.00E-031,13.1,NR) % of variance explaine
+rs1492820,[PMID 18391950],Height,HHIP,G,1.00E-011,0.29,0.21-0.37) cm shorte
+rs1495377,[PMID 17554300],Type 2 diabetes,NR,G,7.00E-006,1.28,1.11-1.49
+rs1540771,[PMID 17952075],Freckles,"SEC5L1,IRF4",A,4.00E-018,1.4,1.26-1.57
+rs1602565,[PMID 18677311],Schizophrenia,Intergenic,C,3.00E-006,1.16,
+rs1670533,[PMID 18239089],Recombination rate (females),"RNF212,SPON2",C,2.00E-012,88.2,63.7-112.7) cM increas
+rs16891982,[PMID 17999355],Skin pigmentation by reflectance spectroscopy,SLC45A2,C,3.00E-011,4.86,2.88-8.21
+rs16892766,[PMID 18372905],Colorectal cancer,EIF3H,A,3.00E-018,1.27,1.20-1.34
+rs16896068,[PMID 18391952],Height,LCORL,A,2.00E-013,0.07,0.03-0.11) SD shorter - among male
+rs16901979,[PMID 17401366],Prostate cancer,Intergenic,A,1.00E-012,1.79,1.53-2.11) (EA
+rs16996148,[PMID 18193043],Triglycerides,"NCAN,CILP2",G,3.00E-009,6.1,NR) mg/dl highe
+rs1701704,[PMID 18198356],Type 1 diabetes,"RAB5B, SUOX, IKZF4, ERBB3, CDK2",C,9.00E-010,1.25,1.12-1.40
+rs17039212,[PMID 18677312],Systemic lupus erythematosus,Intergenic,,9.00E-006,NA,
+rs17145738,[PMID 18193043],Triglycerides,MLXIPL,C,2.00E-012,8.21,NR) mg/dl highe
+rs17388568,[PMID 17554300],Type 1 diabetes,NR,A,3.00E-006,1.26,1.11-1.42
+rs1748195,[PMID 18193043],Triglycerides,ANGPTL3,C,2.00E-010,7.12,NR) mg/dl highe
+rs17483466,[PMID 18758461],Chronic lymphocytic leukemia,"ACOXL,BCL2L11",G,2.00E-010,1.39,1.25-1.53
+rs17672135,[PMID 17554300],Coronary disease,NR,C,2.00E-006,1.43,1.23-1.64
+rs17696736,[PMID 17554260],Type 1 diabetes,C12orf30,G,2.00E-016,1.22,1.15-1.28
+rs17782313,[PMID 18454148],Body mass index,MC4R,C,3.00E-015,0.05,0.04-0.06) unit increase in log(BMI
+rs17810546,[PMID 18311140],Celiac disease,"IL12A, SCHIP1",G,1.00E-009,1.35,1.23-1.49
+rs1799969,[PMID 18604267],Soluble ICAM-1,ICAM1,G,4.00E-047,28.19,NR) umol/L decreas
+rs1812175,[PMID 18391951],Height,HHIP,C,1.00E-011,8.3,5.95-10.65) % SD talle
+rs1823068,[PMID 17903308],Sleepiness,PDE4D,,3.00E-008,NA,
+rs1834640,[PMID 17999355],Skin pigmentation by reflectance spectroscopy,SLC24A5,G,1.00E-050,12.5,8.33-20.0
+rs1859962,[PMID 17603485],Prostate cancer,Intergenic,G,3.00E-010,1.2,1.14-1.27
+rs1892534,[PMID 18439548],C-reactive protein,LEPR,G,7.00E-021,,
+rs1926657,[PMID 17903305],Breast cancer,ABCC4,,2.00E-006,NA,
+rs1934951,[PMID 18594024],Osteonecrosis of the jaw,CYP2C8,T,1.00E-006,12.75,3.7-43.5
+rs1970546,[PMID 17903297],Volumetric brain MRI,CDH4,,4.00E-008,NA,
+rs1975197,[PMID 18660810],Restless legs syndrome,PTPRD,T,6.00E-009,1.31,1.20-1.44
+rs2002842,[PMID 18668548],Rheumatoid arthritis,SALL3,A,6.00E-006,1.61,
+rs2040704,[PMID 18846228],Serum IgE levels,RAD50,,4.00E-008,13.9,NR) % increas
+rs2064689,[PMID 17804789],Crohn's disease,IL23R,,1.00E-008,1.38,1.23-1.53
+rs2144300,[PMID 18193043],HDL cholesterol,GALNT2,T,3.00E-014,1.11,NR) mg/dl highe
+rs216013,[PMID 18535201],Warfarin maintenance dose,CACNA1C,,9.00E-007,NA,
+rs2179965,[PMID 17903297],Cognitive test performance,Intergenic,,1.00E-006,NA,
+rs2180341,[PMID 18326623],Breast cancer,"ECHDC1,RNF146",G,3.00E-008,1.41,1.25-1.59
+rs2200733,[PMID 17603472],Atrial fibrillation/atrial flutter,"PITX2,ENPEP",T,3.00E-041,1.72,1.59-1.86
+rs2201841,[PMID 17804789],Crohn's disease,IL23R,,1.00E-008,1.38,1.23-1.53
+rs2218488,[PMID 17903308],Sleepiness,EYA1,,3.00E-006,NA,
+rs224136,[PMID 17435756],Crohn's disease,Intergenic,,1.00E-010,1.67,
+rs2241880,[PMID 17435756],Crohn's disease,ATG16L1,G,1.00E-013,1.45,1.27-1.64
+rs2242330,[PMID 17052657],Parkinson's disease,BRDG1,,2.00E-006,2,1.43-2.50
+rs2250417,[PMID 18464913],Protein quantitative trait loci,IL18,A,7.00E-013,NA,
+rs2251746,[PMID 18846228],Serum IgE levels,FCER1A,C,2.00E-020,19.2,NR) % decreas
+rs2254287,[PMID 18193043],LDL cholesterol,B3GALT4,G,5.00E-008,1.91,NR) mg/dl highe
+rs2282978,[PMID 18391952],Height,CDK6,C,8.00E-023,0.09,0.06-0.12) SD taller - among male
+rs2292239,[PMID 17554260],Type 1 diabetes,ERBB3,A,2.00E-020,1.28,1.21-1.35
+rs2300478,[PMID 17637780],Restless legs syndrome,MEIS1,G,3.00E-028,1.74,1.57-1.92
+rs2301436,[PMID 18587394],Crohn's disease,CCR6,T,1.00E-012,1.21,
+rs2306677,[PMID 17827064],Amyotrophic lateral sclerosis,ITPR2,,3.00E-006,1.58,1.30-1.91
+rs2315008,[PMID 18758464],Inflammatory bowel disease,TNFRSF6B,G,9.00E-015,1.36,1.05-1.76
+rs2338104,[PMID 18193043],HDL cholesterol,"MVK,MMAB",G,3.00E-008,0.48,NR) mg/dl highe
+rs2373115,[PMID 17553421],APOE*e4 carriers with late onset Alzheimer's disease,GAB2,G,1.00E-010,4.06,2.81-14.69
+rs2395148,[PMID 18576341],Juvenile idiopathic arthritis,HLA-DRB1,,2.00E-010,5.37,3.02-9.56
+rs2398162,[PMID 17554300],Hypertension,NR,A,6.00E-006,1.31,1.03-1.67
+"rs4904868,rs2402130",[PMID 17952075],Blue vs. green eyes,SLC24A4,A,2.00E-018,2.06,1.76-2.42
+rs2494250,[PMID 17903293],Select biomarker traits,"FCER1A,OR10J3",,1.00E-014,NA,
+rs2542151,[PMID 17554260],Type 1 diabetes,PTPN2,C,1.00E-014,1.3,1.22-1.40
+rs2648875,[PMID 17395743],End-stage renal disease,PVT1,A,2.00E-006,2.97,1.90-4.65
+rs2722425,[PMID 17903298],Fasting plasma glucose,ZMAT4,,2.00E-008,NA,
+rs2735839,[PMID 18264097],Prostate cancer,KLK3,G,2.00E-018,1.2,1.10-1.33
+rs2782931,[PMID 17362836],Amyotrophic lateral sclerosis,SUSD1,,6.00E-006,1.11,0.91-1.43
+rs2794520,[PMID 17903293],Select biomarker traits,CRP,,3.00E-008,NA,
+rs2808630,[PMID 18385676],Lung cancer,CRP,G,7.00E-006,1.22,1.10-1.35
+rs2812378,[PMID 18794853],Rheumatoid arthritis,CCL21,G,3.00E-008,1.12,
+rs2816316,[PMID 18311140],Celiac disease,RGS1,C,3.00E-011,1.39,1.26-1.53
+rs2819770,[PMID 17903301],Exercise treadmill test traits,RYR2,,4.00E-006,NA,
+rs2832077,[PMID 17903297],Cognitive test performance,Intergenic,,2.00E-006,NA,
+rs2836823,[PMID 17158188],Nicotine dependence,NR,T,2.00E-006,1.46,1.23-1.73
+rs2836878,[PMID 18758464],Inflammatory bowel disease,PSMG1,,4.00E-012,1.41,1.08-1.84
+rs2837960,[PMID 17554300],Rheumatoid arthritis,NR,G,2.00E-006,1.05,0.93-1.20
+rs28777,[PMID 18483556],Black vs. red hair color,MATP,C,9.00E-014,0.46,0.34-0.58) decrease in hair color scor
+rs2877832,[PMID 17903298],Diabetes related insulin traits,Intergenic,,3.00E-006,NA,
+rs2902440,[PMID 17804789],Crohn's disease,IL23R,,1.00E-008,1.38,1.23-1.53
+rs2903692,[PMID 17632545],Type 1 diabetes,KIAA0350,G,7.00E-011,1.54,1.32-1.79
+rs2981582,[PMID 17529967],Breast cancer,FGFR2,G,2.00E-076,1.26,1.23-1.30
+rs3130340,[PMID 18445777],Bone mineral density (spine),"MHC, C6orf10",T,1.00E-007,0.1,0.06-0.13) SD decreas
+rs32566,[PMID 17903295],Morbidity-free survival,Intergenic,,2.00E-009,NA,
+rs35264875,[PMID 18488028],Blond vs. brown hair,TPCN2,T,4.00E-030,2.49,1.96-3.15
+rs358806,[PMID 17554300],Type 2 diabetes,NR,,3.00E-006,1.16,1.03-1.33
+rs365990,[PMID 20639392],Resting heart rate,MYH6,G,,,
+rs366676,[PMID 17903301],Echocardiographic traits,SPACA1,,2.00E-006,NA,
+rs3736228,[PMID 18455228],Bone mineral density,LRP5,T,6.00E-012,0.13,NR) SD decreas
+rs3748069,[PMID 18391951],Height,GPR126,A,5.00E-014,6.5,5.44-9.36) % SD talle
+rs3761218,[PMID 17554300],Bipolar disorder,NR,C,7.00E-006,1.03,1.15-1.23
+rs3761847,[PMID 17804836],Rheumatoid arthritis,TRAF1-C5,G,4.00E-014,1.32,1.23-1.42
+rs3764147,[PMID 18587394],Crohn's disease,Unknown,G,2.00E-013,1.25,
+rs3796619,[PMID 18239089],Recombination rate (males),"RNF212,SPON2",T,3.00E-024,70.7,84.3-57.1) cM decreas
+rs3802842,[PMID 18372901],Colorectal cancer,Intergenic,C,6.00E-010,1.11,1.08-1.15
+rs3803662,[PMID 17529974],Breast cancer,TNRC9,T,6.00E-019,1.28,1.21-1.35
+rs380390,[PMID 15761122],Age-related macular degeneration,CFH,C,4.00E-008,4.6,2.0-11
+rs3812316,[PMID 18193046],Triglycerides,MLXIPL,C,1.00E-010,10.5,5.3-17.7)% highe
+rs3814219,[PMID 17903301],Endothelial function traits,OBFC1,,9.00E-007,NA,
+rs3817198,[PMID 17529967],Breast cancer,LSP1,T,3.00E-009,1.07,1.04-1.11
+rs3825942,[PMID 17690259],Exfoliation glaucoma,LOXL1,C,3.00E-021,20.1,10.80-37.41
+rs3867498,[PMID 17903307],Other pulmonary function traits,SNRPN,,1.00E-006,NA,
+rs3890745,[PMID 18794853],Rheumatoid arthritis,MMEL1-TNFRSF14,T,1.00E-007,1.12,
+rs3923809,[PMID 17634447],Restless legs syndrome,BTBD9,A,1.00E-017,1.9,1.50-2.20
+rs3924426,[PMID 18521091],Response to iloperidone treatment (QT prolongation),SLCO3A1,T,2.00E-006,NA,
+rs4128725,[PMID 17903293],Select biomarker traits,OR10J1,,4.00E-012,NA,
+rs4129267,[PMID 18464913],Protein quantitative trait loci,IL6R,C,2.00E-057,NA,
+rs420259,[PMID 17554300],Bipolar disorder,"PALB2,NDUFAB1,DCTN5",T,6.00E-008,2.08,1.60-2.71
+rs4355801,[PMID 18455228],Bone mineral density,TNFRSF11B,A,8.00E-010,0.09,NR) SD decreas
+rs4363506,[PMID 17362836],Amyotrophic lateral sclerosis,Intergenic,,7.00E-007,1.9,1.50-2.40
+rs437943,[PMID 18615156],Treatment response to TNF antagonists,CENTD1,G,4.00E-006,NA,
+rs4402960,[PMID 17463249],Type 2 diabetes,IGF2BP2,T,9.00E-016,1.14,1.11-1.18
+rs441051,[PMID 17903307],Mean forced vital capacity from 2 exams,COL1A2,,2.00E-006,NA,
+rs4430796,[PMID 17603485],Prostate cancer,TCF2,A,1.00E-011,1.22,1.15-1.30
+rs4466137,[PMID 17903305],Prostate cancer,HAPLN1,,3.00E-006,NA,
+rs4471028,[PMID 17903300],Waist circumference traits,GDAP1,,2.00E-007,NA,
+rs4591494,[PMID 17903294],Factor VII,Intergenic,,9.00E-006,NA,
+rs4607103,[PMID 18372903],Type 2 diabetes,ADAMTS9,C,1.00E-008,1.09,1.06-1.12
+rs4626664,[PMID 18660810],Restless legs syndrome,PTPRD,A,6.00E-010,1.44,1.31-1.59
+rs4771450,[PMID 18759275],Serum uric acid,NR,,2.00E-006,0.23,NR) mg/dl decrease in uric acid level
+rs4796217,[PMID 18464913],Protein quantitative trait loci,CCL4L2,T,4.00E-021,NA,
+rs4799915,[PMID 18521091],Response to iloperidone treatment (QT prolongation),BRUNOL4,T,3.00E-006,NA,
+rs4810485,[PMID 18794853],Rheumatoid arthritis,CD40,G,8.00E-009,1.15,
+rs4846914,[PMID 18193044],Triglycerides,GALNT2,G,7.00E-015,0.08,0.06-0.10) % SD highe
+rs4870044,[PMID 18445777],Bone mineral density (spine),ESR1,T,2.00E-011,0.11,0.08-0.14) SD decreas
+rs4896582,[PMID 18391950],Height,GPR126,A,2.00E-018,0.38,0.28-0.48) cm shorte
+rs4910742,[PMID 18245381],Fetal hemoglobin levels,HBB,A,1.00E-021,0.58,NR) SD decrease in Hb
+"rs1015362,rs4911414",[PMID 18488028],Skin sensitivity to sun,ASIP,T,2.00E-024,1.76,1.49-2.08
+rs492602,[PMID 18776911],Plasma level of vitamin B12,FUT2,G,5.00E-017,0.09,0.07-0.11) pg/ml decreas
+rs4933824,[PMID 18521091],Response to iloperidone treatment (QT prolongation),NRG3,T,2.00E-006,NA,
+rs4939827,[PMID 17934461],Colorectal cancer,SMAD7,T,1.00E-012,1.16,1.09-1.27
+rs495337,[PMID 18364390],Psoriasis,SPATA2,,1.00E-008,1.25,1.12-1.39
+rs4962416,[PMID 18264096],Prostate cancer (aggressive),CTBP2,C,2.00E-007,1.17,1.05-1.30
+rs4963128,[PMID 18204446],Systemic lupus erythematosus in women,KIAA1542,,3.00E-010,1.28,1.18-1.37
+rs499818,[PMID 17903304],Major CVD,Intergenic,,7.00E-006,NA,
+rs5015480,[PMID 17463249],Type 2 diabetes,HHEX,C,6.00E-010,1.13,1.08-1.17
+rs5029939,[PMID 18677312],Systemic lupus erythematosus,TNFAIP3,,3.00E-012,2.28,
+rs507666,[PMID 18604267],Soluble ICAM-1,ABO,G,5.00E-029,17.73,NR) umol/L decreas
+rs5498,[PMID 18604267],Soluble ICAM-1,ICAM1,A,5.00E-025,13.22,NR) umol/L increas
+rs560887,[PMID 18451265],Fasting plasma glucose,G6PC2,A,4.00E-023,0.06,0.05-0.08) mmol/l decreas
+rs5751901,[PMID 18464913],Protein quantitative trait loci,GGT1,T,2.00E-007,NA,
+rs5770917,[PMID 18820697],Narcolepsy,CPT1B,C,6.00E-008,1.63,1.37-1.95
+rs5945572,[PMID 18264098],Prostate cancer,"NUDT10, NUDT11, LOC340602, GSPT2, MAGED1",A,4.00E-013,1.23,1.16-1.30
+rs599839,[PMID 18179892],LDL cholesterol,"CELSR2,PSRC1",G,1.00E-007,0.95,0.93-0.97
+rs6013382,[PMID 17362836],Amyotrophic lateral sclerosis,ZFP64,,5.00E-006,1.43,1.11-1.67
+rs6060369,[PMID 18193045],Height,BFZB,C,2.00E-016,0.44,NR) cm talle
+rs6060373,[PMID 18391952],Height,GDF5,G,2.00E-017,0.08,0.05-0.11) SD shorter - among male
+rs6440003,[PMID 18391952],Height,ZBTB38,A,2.00E-024,0.07,0.04-0.09) SD taller - among male
+rs6445975,[PMID 18204446],Systemic lupus erythematosus in women,PXK,C,7.00E-009,1.25,1.16-1.35
+rs6458307,[PMID 17554300],Bipolar disorder,NR,,4.00E-006,1.19,1.04-1.33
+rs6465657,[PMID 18264097],Prostate cancer,LMTK2,C,1.00E-009,1.12,1.05-1.20
+rs646776,[PMID 18193044],LDL cholesterol,"CELSR2,PSRC1,SORT1",C,3.00E-029,0.16,0.14-0.18) % SD lowe
+rs6469804,[PMID 18445777],Bone mineral density (spine),OPG,A,7.00E-015,0.12,0.09-0.15) SD decreas
+rs6556756,[PMID 17903305],Breast cancer,Intergenic,,5.00E-007,NA,
+rs6604026,[PMID 17660530],Multiple sclerosis,RPL5,C,8.00E-006,1.15,1.08-1.22
+rs6669582,[PMID 17804789],Crohn's disease,IL23R,,1.00E-008,1.38,1.23-1.53
+rs6763931,[PMID 18391951],Height,ZBTB38,A,1.00E-027,7.4,6.03-8.77) % SD talle
+rs6822844,[PMID 17558408],Celiac disease,"KIA1109,TENR,IL2,IL21",G,1.00E-014,1.59,1.41-1.75
+rs683395,[PMID 17554300],Bipolar disorder,NR,G,5.00E-006,1.47,1.26-1.71
+rs6855911,[PMID 17997608],Serum urate,GLUT9,A,2.00E-016,0.32,NR) mg/dl highe
+rs6897932,[PMID 17660530],Multiple sclerosis,IL7RA,C,3.00E-007,1.18,1.11-1.26
+rs6918152,[PMID 18483556],Black vs. red hair color,EXOC2,A,5.00E-007,0.11,0.07-0.15) increase in hair color scor
+rs6939340,[PMID 18463370],Neuroblastoma,"FLJ22536, FLJ44180",G,9.00E-015,1.37,1.27-1.49
+rs6983267,[PMID 17401363],Prostate cancer,Intergenic,G,9.00E-013,1.26,1.13-1.41
+rs6993813,[PMID 18445777],Bone mineral density (hip),OPG,C,3.00E-011,0.09,0.07-0.12) SD decreas
+rs7014346,[PMID 18372901],Colorectal cancer,"POU5FIP1, HsG57825, DQ515897",A,9.00E-026,1.19,1.15-1.23
+rs702543,[PMID 17667963],Neuroticism,PDE4D,A,2.00E-006,1.27,1.15-1.40
+rs7046653,[PMID 18615156],Treatment response to TNF antagonists,IFNK,A,5.00E-007,NA,
+rs710521,[PMID 18794855],Urinary bladder cancer,TP63,A,1.00E-007,1.19,1.12-1.27
+rs7142881,[PMID 18521091],Response to iloperidone treatment (QT prolongation),NUBPL,A,2.00E-006,NA,
+rs7176508,[PMID 18758461],Chronic lymphocytic leukemia,Intergenic,A,5.00E-012,1.37,1.26-1.50
+rs721048,[PMID 18264098],Prostate cancer,EHBP1,A,8.00E-009,1.15,1.10-1.21
+rs7216389,[PMID 17611496],Asthma,Intergenic,T,9.00E-011,1.45,1.17-1.81
+rs724016,[PMID 18193045],Height,ZBTB38,G,1.00E-006,0.61,NR) cm talle
+"rs317689,rs315135,rs7297610",[PMID 18591461],Response to diuretic therapy,"LYZ, YEATS4, FRS2",e,6.00E-006,NA,
+rs7310409,[PMID 18439548],C-reactive protein,HNF1A,A,7.00E-017,0.15,NR) mg/dl decreas
+rs735665,[PMID 18758461],Chronic lymphocytic leukemia,GRAMD1B,A,4.00E-012,1.45,1.31-1.61
+rs737267,[PMID 18327257],Serum urate,SLC2A9,C,3.00E-009,0.88,NR) uM decrease in uric acid (females only
+rs740363,[PMID 17903304],Heart failure,KIAA1598,,9.00E-006,NA,
+rs741301,[PMID 17653210],Diabetic nephropathy,ELMO1,,8.00E-006,2.67,1.71-4.16
+rs743777,[PMID 17554300],Rheumatoid arthritis,NR,G,1.00E-006,1.09,0.97-1.24
+rs744166,[PMID 18587394],Crohn's disease,STAT3,A,7.00E-012,1.18,
+rs7442295,[PMID 18179892],Serum urate,"SLC2A9,WDR1",A,2.00E-015,0.02,0.02-0.03) mMol/L highe
+rs746961,[PMID 17903293],Select biomarker traits,ZNF536,,8.00E-007,NA,
+rs7506045,[PMID 17434096],Stroke,IMPA2,,7.00E-007,5.39,2.77-10.5
+rs7517847,[PMID 17068223],Inflammatory bowel disease,IL23R,C,4.00E-013,1.61,1.35-1.92
+rs7524102,[PMID 18445777],Bone mineral density (spine),ZBTB40,A,9.00E-009,0.11,0.07-0.15) SD decreas
+rs7578597,[PMID 18372903],Type 2 diabetes,THADA,T,1.00E-009,1.15,1.10-1.20
+rs7595412,[PMID 18776929],Hip bone size,PLCL1,A,2.00E-006,5,NR) cm2 increase in hip bone size on wome
+rs7626795,[PMID 18385676],Lung cancer,IL1RAP,G,8.00E-006,1.16,1.05-1.28
+rs763361,[PMID 17554260],Type 1 diabetes,CD226,A,1.00E-008,1.16,1.10-1.22
+rs7746082,[PMID 18587394],Crohn's disease,Unknown,C,2.00E-010,1.17,
+rs7754840,[PMID 17463248],Type 2 diabetes,CDKAL1,C,4.00E-011,1.12,1.08-1.16
+rs7756992,[PMID 17460697],Type 2 diabetes,CDKAL1,G,8.00E-009,1.2,1.13-1.27
+rs7770628,[PMID 18464913],Protein quantitative trait loci,LPA,T,4.00E-010,NA,
+rs780094,[PMID 18193043],Triglycerides,GCKR,T,6.00E-032,8.59,NR) mg/dl highe
+rs783396,[PMID 17434096],Stroke,AIM1,,9.00E-006,2.17,1.47-3.13
+rs7931342,[PMID 18264097],Prostate cancer,Intergenic,G,2.00E-012,1.19,1.11-1.27
+rs7961581,[PMID 18372903],Type 2 diabetes,"TSPAN8,LGR5",C,1.00E-009,1.09,1.06-1.12
+rs798544,[PMID 18391951],Height,GNA12,G,7.00E-015,5.9,6.03-8.77) % SD talle
+rs8007661,[PMID 18391950],Height,"TRIP11,ATXN3",T,6.00E-010,0.42,0.30-0.54) cm shorte
+rs8034191,[PMID 18385738],Lung cancer,"CHRNA3,CHRNA5, CHRNB4, PSMA4, LOC123688",C,5.00E-020,1.3,1.23-1.37
+rs8050136,[PMID 17463249],Type 2 diabetes,FTO,A,1.00E-012,1.17,1.12-1.22
+rs8055236,[PMID 17554300],Coronary disease,NR,G,6.00E-006,1.91,1.33-2.74
+rs854555,[PMID 18615156],Treatment response to TNF antagonists,PON1,A,2.00E-006,NA,
+rs864745,[PMID 18372903],Type 2 diabetes,JAZF1,T,5.00E-014,1.1,1.07-1.13
+rs872071,[PMID 18758461],Chronic lymphocytic leukemia,IRF4,G,2.00E-020,1.54,1.41- 1.69
+rs882300,[PMID 17903306],Electrocardiographic traits,Intergenic,,3.00E-007,NA,
+rs889312,[PMID 17529967],Breast cancer,MAP3K1,A,7.00E-020,1.13,1.10-1.16
+rs910873,[PMID 18488026],Melanoma,CDC91L1,T,1.00E-015,1.75,1.53-2.01
+rs916977,[PMID 18252221],Iris color,HERC2,,1.00E-043,NA,
+rs9296249,[PMID 17637780],Restless legs syndrome,BTBD9,T,4.00E-018,1.67,1.49-1.89
+rs9300039,[PMID 17463248],Type 2 diabetes,Intergenic,C,4.00E-007,1.25,1.15-1.37
+rs9315385,[PMID 17903306],Heart rate variability traits,DCAMKL1,,8.00E-006,NA,
+rs935334,[PMID 17903302],Blood pressure,Intergenic,,3.00E-006,NA,
+rs9364554,[PMID 18264097],Prostate cancer,SLC22A3,T,6.00E-010,1.17,1.08-1.26
+rs9399137,[PMID 17767159],F-cell distribution,Intergenic,,3.00E-036,15.8,NR) % of variance explaine
+rs9465871,[PMID 17554300],Type 2 diabetes,CDKAL1,C,3.00E-007,1.18,1.04-1.34
+rs9469220,[PMID 17554300],Crohn's disease,NR,A,2.00E-006,1.14,0.98-1.32
+rs9536591,[PMID 17434096],Stroke,Intergenic,,6.00E-006,1.92,1.41-2.63
+rs9594738,[PMID 18445777],Bone mineral density (hip),RANKL,T,2.00E-008,0.1,0.06-0.13) SD decreas
+rs9594759,[PMID 18445777],Bone mineral density (spine),RANKL,T,2.00E-021,0.17,0.14-0.21) SD decreas
+rs9642880,[PMID 18794855],Urinary bladder cancer,"MYC, BC042052",T,9.00E-012,1.22,1.15-1.29
+rs966321,[PMID 17903294],Factor VII,Intergenic,,8.00E-006,NA,
+rs983332,[PMID 18615156],Treatment response to TNF antagonists,LMO4,A,5.00E-006,NA,
+rs9858542,[PMID 17554261],Crohn's disease,MST1,,5.00E-008,1.17,1.14-1.31
+rs9888739,[PMID 18204446],Systemic lupus erythematosus in women,ITGAM,T,2.00E-023,1.62,1.47-1.78
+rs9930506,[PMID 17658951],Obesity-related traits,FTO,G,9.00E-007,0.12,NR) SD lower (weight
+rs993648,[PMID 18521091],Response to iloperidone treatment (QT prolongation),CERKL,T,3.00E-006,NA,
+rs9939609,[PMID 17434869],Body mass index,FTO,A,2.00E-020,0.36,NR) kg/m2 per copy in adult
+rs9988642,[PMID 17804789],Crohn's disease,IL23R,,1.00E-008,1.38,1.23-1.53
